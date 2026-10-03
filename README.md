@@ -2,6 +2,8 @@
 
 A graduation cap with a 32×32 RGB LED matrix on top, built for my Arizona State graduation in spring 2017 (the code and artwork date from April–May 2017). It plays pixel-art GIFs from an SD card, scrolls text, and is controlled from a phone over Bluetooth: pick an animation, queue up a sequence, send a message, or change the brightness.
 
+<p align="center"><img src="docs/cap.jpg" alt="The finished cap lit up with the ASU pitchfork, on an ASU gown and stole" width="420"></p>
+
 | | | | |
 |---|---|---|---|
 | ![Forks up](docs/previews/forks-up.gif) | ![Sparky](docs/previews/sparkylight.gif) | ![ASU](docs/previews/as.gif) | ![Pac-Man](docs/previews/paceat.gif) |
