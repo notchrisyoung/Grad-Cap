@@ -57,7 +57,7 @@ On power-up the cap waits for any message from the phone, replies `Connected`, t
 
 ## Images
 
-`Images/` holds the Photoshop sources (`.psd`) for the artwork and the exported GIFs. `Images/Ready to load/gifs/` is the set that went on the SD card.
+`Images/` holds the exported GIFs. `Images/Ready to load/gifs/` is the set that went on the SD card.
 
 ## Notes
 
