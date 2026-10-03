@@ -11,6 +11,11 @@ A graduation cap with a 32×32 RGB LED matrix on top, built for my Arizona State
 
 ## Hardware
 
+![The back of the cap](docs/back.jpg)
+
+*The back of the cap: the LED panel set into the cardboard top, with the Teensy and its wiring to the panel's input, and the Bluetooth module on the right.*
+
+
 | Part | Notes |
 |---|---|
 | Teensy 3.1 / 3.2 | Runs the SmartMatrix library |
