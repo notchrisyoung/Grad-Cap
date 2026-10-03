@@ -1,0 +1,11 @@
+# Arduino libraries are installed separately (see README)
+Libraries/
+my_grad_cap/SmartMatrix3/
+
+# Google Drive download archives of the folders above
+*-001.zip
+
+# OS / editor leftovers
+desktop.ini
+*.tmp
+*.ino*.tmp
